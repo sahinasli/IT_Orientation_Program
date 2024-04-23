@@ -1,0 +1,143 @@
+
+  869  pwd
+  870  ls
+  871  explorer.exe .
+  872  ls
+  873  ls -l
+  874  ls -al
+  875  ls -a
+  876  ls
+  877  cd folder-1/
+  878  cd ~
+  879  cd folder-1/
+  880  cd /
+  881  ls
+  882  cd ~
+  883  pwd
+  884  cd /
+  885  pwd
+  886  ls
+  887  cd home
+  888  ls
+  889  cd emre
+  890  pwd
+  891  mkdir folder-2
+  892  touch my-file-2.txt
+  893  cd folder-1
+  894  touch file1.txt
+  895  ls
+  896  cd ..
+  897  ls
+  898  rmdir folder-1 folder2
+  899  rmdir folder-1 folder-2
+  900  ls
+  901  cd ~
+  902  ls
+  903  rm -r folder-1/
+  904  ls
+  905  touch my-file.txt
+  906  rm my-file.txt my-file-1.txt my-file-2.txt 
+  907  mkdir folder
+  908  touch file.txt
+  909  cp file.txt ./folder/
+  910  touch remove.txt
+  911  mv remove.txt ./folder/
+  912  rm -r folder/
+  913  cat file.txt 
+  914  echo "hello world" > file.txt 
+  915  cat file.txt 
+  916  cd
+  917  mkdir lessons
+  918  cd lessons/
+  919  mkdir sdlc html linux
+  920  ls
+  921  tree
+  922  cd sdlc/
+  923  mkdir devops waterfall
+  924  ls
+  925  cd ..
+  926  tree
+  927  cd linux/
+  928  mkdir cli gui
+  929  ls
+  930  cd cli
+  931  mkdir commands
+  932  cd ../..
+  933  cd linux/cli/
+  934  cd ~/lessons/
+  935  tree
+  936  mv html/ ./HTML
+  937  ls
+  938  cd HTML/
+  939  ls
+  940  touch project.html
+  941  ls
+  942  mv project.html web.html
+  943  ls
+  944  cd ..
+  945  mv HTML/ ./html
+  946  ls
+  947  cd html/
+  948  ls
+  949  cd
+  950  ls
+  951  ls dosya.txt DOSYA.txt Dosya.txt
+  952  touch dosya.txt DOSYA.txt Dosya.txt
+  953  ls
+  954  history > session-1.txt
+  955  ls
+  956  rm DOSYA.txt Dosya.txt File.txt file.txt session-1.txt 
+  957  ls
+  958  rm dosya.txt 
+  959  mkdir file{1..5}
+  960  ls
+  961  ls -l file[1-3]
+  962  ls | grep [1-3]
+  963  mkdir file{6..12}
+  964  ls -l file[1-9]
+  965  ls -l file[1-11]
+  966  ls -l file[1-10]
+  967  ls -l file[1-8]
+  968  ls | grep [1-9]
+  969  ls | grep[1-3]
+  970  ls | grep [1-3]
+  971  ls file[1-3]
+  972  ls
+  973  ls -l
+  974  cp ./file12 ./lessons/
+  975  cp -r ./file12 ./lessons/
+  976  ls ./lessons/
+  977  rm -r lessons/
+  978  rmdir file{1..12}
+  979  ls
+  980  mkdir fol1 fol2
+  981  ls
+  982  mv ./fol1 ./fol2
+  983  ls
+  984  ls ./fol2/
+  985  touch file ./fol2/fol1/
+  986  ls
+  987  ls ./fol2
+  988  ls ./fol2/fol1
+  989  rm -r fol2/
+  990  ls
+  991  rm file 
+  992  mkdir f1 f2
+  993  touch ff ./f1
+  994  ls
+  995  cd f1
+  996  ls
+  997  touch ./f1/ff
+  998  cd ..
+  999  touch ./f1/ff
+ 1000  ls ./f1
+ 1001  mv ./f1 ./f2
+ 1002  ls
+ 1003  ls ./f2
+ 1004  ls ./f2/f1
+ 1005  rm -r f2
+ 1006  ls
+ 1007  rm ff
+ 1008  ls
+ 1009  cd lessons/s2/
+ 

@@ -1,0 +1,87 @@
+ 
+  852  pwd
+  853  ls
+  854  explorer.exe .
+  855  ls
+  856  ls -l
+  857  ls -al
+  858  ls -a
+  859  ls
+  860  cd folder-1/
+  861  cd ~
+  862  cd folder-1/
+  863  cd /
+  864  ls
+  865  cd ~
+  866  pwd
+  867  cd /
+  868  pwd
+  869  ls
+  870  cd home
+  871  ls
+  872  cd emre
+  873  pwd
+  874  mkdir folder-2
+  875  touch my-file-2.txt
+  876  cd folder-1
+  877  touch file1.txt
+  878  ls
+  879  cd ..
+  880  ls
+  881  rmdir folder-1 folder2
+  882  rmdir folder-1 folder-2
+  883  ls
+  884  cd ~
+  885  ls
+  886  rm -r folder-1/
+  887  ls
+  888  touch my-file.txt
+  889  rm my-file.txt my-file-1.txt my-file-2.txt 
+  890  mkdir folder
+  891  touch file.txt
+  892  cp file.txt ./folder/
+  893  touch remove.txt
+  894  mv remove.txt ./folder/
+  895  rm -r folder/
+  896  cat file.txt 
+  897  echo "hello world" > file.txt 
+  898  cat file.txt 
+  899  cd
+  900  mkdir lessons
+  901  cd lessons/
+  902  mkdir sdlc html linux
+  903  ls
+  904  tree
+  905  cd sdlc/
+  906  mkdir devops waterfall
+  907  ls
+  908  cd ..
+  909  tree
+  910  cd linux/
+  911  mkdir cli gui
+  912  ls
+  913  cd cli
+  914  mkdir commands
+  915  cd ../..
+  916  cd linux/cli/
+  917  cd ~/lessons/
+  918  tree
+  919  mv html/ ./HTML
+  920  ls
+  921  cd HTML/
+  922  ls
+  923  touch project.html
+  924  ls
+  925  mv project.html web.html
+  926  ls
+  927  cd ..
+  928  mv HTML/ ./html
+  929  ls
+  930  cd html/
+  931  ls
+  932  cd
+  933  ls
+  934  ls dosya.txt DOSYA.txt Dosya.txt
+  935  touch dosya.txt DOSYA.txt Dosya.txt
+  936  ls
+  937  history > session-1.txt
